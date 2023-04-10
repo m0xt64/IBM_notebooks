@@ -1,3 +1,1 @@
-# IBM data analyst
-
 editting 
